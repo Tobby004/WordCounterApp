@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">WordCounterApp</string>
-</resources>
+        <string name="enter_text">Enter text here...</string>
+        <string name="btn_count">Count</string>
+        <string name="result_label">Result: </string>
+        <string name="toast_empty">Please enter some text</string>
+        <string-array name="metrics_array">
+            <item>Sentences</item>
+            <item>Words</item>
+            <item>Characters</item>
+            <item>Numbers</item>
+        </string-array>
+    </resources>
+
